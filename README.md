@@ -1,0 +1,2 @@
+# SwagafiedApp
+Hackuweather hackathon project
